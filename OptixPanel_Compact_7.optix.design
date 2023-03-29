@@ -1,0 +1,18 @@
+Project:
+ Name: OptixPanel_Compact_7_Design
+ ProjectNamespaceIndex: 4
+ Description: ''
+ Company: ''
+ Copyright: ''
+ FormatVersion: 1
+ ProductVersion: 1.0
+ CoreVersion: 1.1
+ Dependencies:
+  2:
+   Uri: OptixPanel_Compact_7
+   RelativePath: OptixPanel_Compact_7.optix
+  3:
+   Uri: 'urn:FTOptix:CoreBase'
+   Module: FTOptix.CoreBase
+   Version: 1.0
+ Nodes: []
